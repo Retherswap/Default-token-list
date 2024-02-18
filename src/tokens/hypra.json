@@ -22,5 +22,13 @@
     "decimals": 18,
     "chainId": 622277,
     "logoURI": "https://raw.githubusercontent.com/Retherswap/default-token-list/main/supported_chains/hypra/0x46857374bfC5A7622F85198526E0B5044A293D5b/logo.png"
+  },
+    {
+    "name": "Hypra Inu",
+    "address": "0xcBFbd38167519F4DCcfF1dbd48304a4FC8d4De32",
+    "symbol": "HINU",
+    "decimals": 18,
+    "chainId": 622277,
+    "logoURI": "https://raw.githubusercontent.com/Retherswap/default-token-list/main/supported_chains/hypra/0xcBFbd38167519F4DCcfF1dbd48304a4FC8d4De32/logo.png"
   }
 ]
